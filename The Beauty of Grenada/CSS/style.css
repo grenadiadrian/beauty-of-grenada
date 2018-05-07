@@ -1,0 +1,54 @@
+body {
+	background-image: url("../grenada.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin: 0px;
+}
+
+h1 {
+	font-family: 'Fondamento', cursive;
+	color: forestgreen;
+	font-size: 3em;
+	border-bottom: 2px solid grey;
+	border-right: 2px solid grey;
+	width: 400px;
+	text-align: center;
+	box-shadow: 4px 4px 5px #000000;
+	margin-top: 35px;
+}
+
+.card-img-top {
+	transition: all 1s;
+}
+
+.card-img-top:hover {
+	transform: scale(1.1);
+}
+
+.card-title {
+	font-family: 'Fondamento', cursive;
+	font-size: 24px;
+}
+
+
+.card-text {
+	font-family: 'Fondamento', cursive;
+}
+
+.card-deck {
+	margin-top: 50px;
+	border-spacing: 
+}
+
+.card-body {
+	text-align: center;
+	background-color: rgba(102, 102, 102, 0.2);
+}
+
+.btn-danger {
+	background-color: maroon;
+}
+
+.btn-success {
+	background-color: rgb(4, 51, 7);
+}
