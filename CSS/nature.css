@@ -64,3 +64,9 @@ img {
 img:hover {
 	transform: scale(1.1);
 }
+
+.radio {
+	position: absolute;
+	top: 16px;
+	right: 16px;
+}
