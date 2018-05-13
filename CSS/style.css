@@ -52,3 +52,9 @@ h1 {
 .btn-success {
 	background-color: rgb(4, 51, 7);
 }
+
+.radio {
+	position: absolute;
+	top: 16px;
+	right: 16px;
+}
